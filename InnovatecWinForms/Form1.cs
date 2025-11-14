@@ -10,12 +10,12 @@ using System.Windows.Forms;
 
 namespace InnovatecWinForms
 {
-    public partial class Form1 : Form
+    public partial class InnoVatecPark : Form
     {
         GeneralTree<string> org;
         Graph graph;
 
-        public Form1()
+        public InnoVatecPark()
         {
             InitializeComponent();
 

@@ -1,6 +1,6 @@
 ﻿namespace InnovatecWinForms
 {
-    partial class Form1
+    partial class InnoVatecPark
     {
         /// <summary>
         /// Variable del diseñador necesaria.
@@ -180,7 +180,7 @@
             this.lblResult.TabIndex = 15;
             this.lblResult.Text = "Result";
             // 
-            // Form1
+            // InnoVatecPark
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -201,8 +201,8 @@
             this.Controls.Add(this.btnCountTree);
             this.Controls.Add(this.btnSearchTree);
             this.Controls.Add(this.btnInsertTree);
-            this.Name = "Form1";
-            this.Text = "Form1";
+            this.Name = "InnoVatecPark";
+            this.Text = "InnoVatecPark";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
